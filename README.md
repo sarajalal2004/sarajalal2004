@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @sarajalal2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, My name is Sara
+-
 
-<!---
-sarajalal2004/sarajalal2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+about
+-
+I am from Bahrian 🇧🇭. I currently studying computer science in university of Bahrain 👩🏻‍💻. I am intrested in programming and software development.
+
+languages 
+-
+- arabic 
+- english 
+- Intoduction in learning chinese 🇨🇳
+
+programming languages
+-
