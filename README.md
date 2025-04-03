@@ -13,3 +13,5 @@ languages
 
 programming languages
 -
+python/java/html/css/php/js/flutter/bash/
+
