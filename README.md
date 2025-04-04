@@ -11,7 +11,7 @@ I am from Bahrian 🇧🇭. I currently studying computer science in university 
 - english 
 - Intoduction in learning chinese 🇨🇳
 
-## programming languages
+## programming and Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,4 +26,5 @@ I am from Bahrian 🇧🇭. I currently studying computer science in university 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Assembly (MIPS)](https://img.shields.io/badge/Assembly(MIPS)-525252?style=for-the-badge&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
