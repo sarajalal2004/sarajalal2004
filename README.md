@@ -9,7 +9,7 @@ I am from Bahrian 🇧🇭. I currently studying computer science in university 
 
 - arabic 
 - english 
-- Intoduction in learning chinese 🇨🇳
+
 
 ## programming and Technologies
 
